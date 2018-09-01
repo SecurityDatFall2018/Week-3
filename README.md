@@ -4,7 +4,7 @@
 
 ## What to Read
 
-At first, it might seem like there are an awful lot to read, but totally it sums up to 10-15 pages only if you distribute the reading among your group as suggested below, so just go ahead a start reading ;-)
+At first, it might seem like there are an awful lot to read, but totally it sums up to 10-15 pages only, if you distribute the readings among your group as suggested below, so just go ahead a start reading ;-)
 
 #### A2
 - Read the OWASP description for [A2](https://www.owasp.org/index.php/Top_10-2017_A2-Broken_Authentication)
