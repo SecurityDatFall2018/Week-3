@@ -28,7 +28,9 @@ See the [possible exam questions](https://docs.google.com/document/d/1NmH7nUBH7g
 ## Exercises
 TBD
 
-# Day-2 (Friday) A7
+# Day-2 (Friday) A7 Cross-Site Scripting (XSS)
+*Much of the day will be focused aroung a Live Hacker Content. Prepare yourself by watching the video given below. I will set up a simple “hackable” Session based Server. The first one to succeed in stealing a SessionID, and another user's secret information, and explain for the class “the steps involved” wins a GOOD beer :-)*
+
 ### What to read
 
 - Read the OWASP Description for [A7](https://www.owasp.org/index.php/Top_10-2017_A7-Cross-Site_Scripting_(XSS))
