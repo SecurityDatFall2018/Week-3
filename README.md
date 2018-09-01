@@ -29,5 +29,11 @@ See the [possible exam questions](https://docs.google.com/document/d/1NmH7nUBH7g
 TBD
 
 # Day-2 (Friday) A7
+### What to read
+
+- Read the OWASP Description for [A7](https://www.owasp.org/index.php/Top_10-2017_A7-Cross-Site_Scripting_(XSS))
+- Read/skim the article the [Cheat Sheet related to session management](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet)
+- **Important** Watch this [video](https://www.youtube.com/watch?v=cbmBDiR6WaY) (7 min.) about Cross Site Scripting and Session Hijacking. Play close attention to the malicious scripts used in this video, since you will be expected to attack a “similar” site Tuesday, and implement a “similar” proof of concept server Thursday
+
 
 TBD
