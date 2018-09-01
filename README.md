@@ -29,3 +29,5 @@ See the [possible exam questions](https://docs.google.com/document/d/1NmH7nUBH7g
 TBD
 
 # Day-2 (Friday) A7
+
+TBD
