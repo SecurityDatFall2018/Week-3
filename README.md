@@ -20,7 +20,7 @@ If you prefer to watch/listen [this video](https://www.youtube.com/watch?v=R1iGR
 - Read/skim some of the references given in [A5](https://www.owasp.org/index.php/Top_10-2017_A5-Broken_Access_Control). You should distribute the “readings” among your group, since one of the exercises for day-1, will be to explain what you have read, to the rest of your group.
 
 #### Watch
-Watch [this video](https://www.youtube.com/watch?v=ouuXu9_UM0w) for a quick intro to A5
+If you have time, watch [this video]https://www.youtube.com/watch?v=94-tlOCApOc) for a lot of "broken authentication" examples
 
 ## Learning Goals
 See the [possible exam questions](https://docs.google.com/document/d/1NmH7nUBH7gUeRFMmRd9lciD6uQMIfkw3Om3DrKcjR0k/edit?usp=sharing) for A2 + A5, for the best description of learnings goals for this day
