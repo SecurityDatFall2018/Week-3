@@ -37,5 +37,8 @@ See the [possible exam questions](https://docs.google.com/document/d/1NmH7nUBH7g
 - Read/skim the article the [Cheat Sheet related to session management](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet)
 - **Important** Watch this [video](https://www.youtube.com/watch?v=cbmBDiR6WaY) (7 min.) about Cross Site Scripting and Session Hijacking. Play close attention to the malicious scripts used in this video, since you will be expected to attack a “similar” site Friday, and implement a “similar” proof of concept server by yourself
 
+### Slides
 
-TBD
+[Day-1](https://docs.google.com/presentation/d/1jXw12p8_h7RiLbagnC_Eb-PkAFDNz9xk4gY4e0gd5Ck/edit?usp=sharing)
+
+
