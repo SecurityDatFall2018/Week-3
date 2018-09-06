@@ -41,6 +41,9 @@ See the [possible exam questions](https://docs.google.com/document/d/1NmH7nUBH7g
 
 ### Slides
 
-[Day-1](https://docs.google.com/presentation/d/1jXw12p8_h7RiLbagnC_Eb-PkAFDNz9xk4gY4e0gd5Ck/edit?usp=sharing)
+TBD
+
+## Exercises
+[A7, Cross Site Scripting](https://docs.google.com/document/d/1N-USBZTylI7Cr4A4BexVeDolmywwifOJfm-l6IPZ_r0/edit?usp=sharing)
 
 
