@@ -47,6 +47,6 @@ See the [possible exam questions](https://docs.google.com/document/d/1NmH7nUBH7g
 TBD
 
 ## Exercises
-[A7, Cross Site Scripting](https://docs.google.com/document/d/1N-USBZTylI7Cr4A4BexVeDolmywwifOJfm-l6IPZ_r0/edit?usp=sharing)
+[A7, Cross Site Scripting](https://docs.google.com/document/d/1EHVnI0sh9UCHdUpszFTtG_oxtYlOpGImYUimI5CotYY/edit?usp=sharing)
 
 
